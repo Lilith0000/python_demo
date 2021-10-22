@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0fa1ed7f-7e6c-4a6b-9b02-71c7ea75baff" name="Changes" comment="210930 amendment">
-      <change afterPath="$PROJECT_DIR$/find_a_same_division.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/s1_p1.py" beforeDir="false" afterPath="$PROJECT_DIR$/s1_p1.py" afterDir="false" />
-    </list>
+    <list default="true" id="0fa1ed7f-7e6c-4a6b-9b02-71c7ea75baff" name="Changes" comment="210930 amendment" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
