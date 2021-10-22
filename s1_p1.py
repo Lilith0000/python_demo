@@ -1,3 +1,10 @@
+# Introduction:
+# This program is a salary calculator.
+# It automatically calculate one's salary via inputting working hours and pay rate.
+# Basic rules:
+# Within 40 hours, one gets his pay at a standard rate.
+# For overtime beyond 40 hours, there would be a 50% overtime pay.
+
 # Initial
 Pay = None
 Overtime = None
